@@ -7,3 +7,6 @@ http://www.ebay.com.au/itm/Best-Price-Addressable-WS2811-5050-RGB-led-pixel-stri
 type used - 48 leds per m
 first 2 prototypes - 1.8m, 87 LED's, 1.5A 12v power
 1.1m 51 LED's 0.9A 12V power
+
+FastLED library used
+fastled.io
